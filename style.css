@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.canvas {
+
+    display: inline-block;
+    margin: 50px;
+    margin-left: 350px;
+  
+}
+
+
+
+#grey {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+}
+
+#green {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+
+}
+
+#yellow {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+#white {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}
+
